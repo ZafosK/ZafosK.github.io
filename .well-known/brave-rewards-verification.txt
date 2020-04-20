@@ -1,4 +1,0 @@
-his is a Brave Rewards publisher verification file.
-
-Domain: zafosk.github.io
-Token: 0123456789abcdef0123456789abcdef0123456789abcdef0123456789abcdef
