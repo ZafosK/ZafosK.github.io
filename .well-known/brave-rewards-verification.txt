@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: zafosk.github.io
+Token: 5f05743fe602f4ca28671647ee30c3f3e5f4cec08dde0d9cb2dd25ab9e2ecdde
